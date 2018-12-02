@@ -14,7 +14,9 @@ We also attempted to use WRN-50-2 to perform feature extraction.
 
  Reference 
   [1] He K, Zhang X, Ren S, et al. Deep Residual Learning for Image Recognition[J].  2015:770-778.
+  
   [2] Xiao H, Rasul K, Vollgraf R. Fashion-MNIST: a Novel Image Dataset for   Benchmarking Machine Learning Algorithms[J].  2017.
+  
   [3] Lecun Y, Cortes C. The mnist database of handwritten digits[J].  2010
 
 
